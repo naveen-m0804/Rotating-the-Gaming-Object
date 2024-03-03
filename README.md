@@ -58,7 +58,8 @@ public class rotate : MonoBehaviour
 }
 ```
 ## Output:
-![image](https://github.com/naveen-m0804/Rotating-the-Gaming-Object/assets/117974950/03f0b07f-11d8-4080-b0f5-f121b43ebfeb)
+![image](https://github.com/naveen-m0804/Rotating-the-Gaming-Object/assets/117974950/f50df608-2fac-49dd-8cb8-0026eb9dfcce)
+
 
 ## Result:
 Thus the output for the rotating the object successfully displayed.
